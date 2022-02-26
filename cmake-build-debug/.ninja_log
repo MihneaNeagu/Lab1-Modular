@@ -1,0 +1,6 @@
+# ninja log v5
+0	260	6676194767107466	CMakeFiles/lab_1_modular.dir/main.cpp.obj	d0033957b2a13b98
+0	58	6676197964274163	CMakeFiles/lab1.dir/main.cpp.obj	d9067362a4090219
+11	254	6676197966211891	CMakeFiles/lab1.dir/tests.cpp.obj	25c07940bf376c79
+9	255	6676197966221818	CMakeFiles/lab1.dir/primmaxim.cpp.obj	d4639c13e3d68185
+255	343	6676197967091459	lab1.exe	19a2f5fa9ba9c668
